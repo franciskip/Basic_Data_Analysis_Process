@@ -1,4 +1,4 @@
-# Data_Anaalysis_Nanodegree
+# Data_Anaalysis_Process
 Data_Analysis_Projects
 ### Quality
 1. There are features with extremely high missing values in are 'in_reply_to_status_id', 'in_reply_to_user_id', 'retweeted_status_id','retweeted_status_user_id', 'retweeted_status_timestamp'. These columns have above 92% missing values twitter-archive-enhanced data set.
